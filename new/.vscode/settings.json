@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/adityakoppu/miniconda3/envs/devenv/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
+}
